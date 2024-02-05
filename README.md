@@ -29,6 +29,13 @@ Here is a list of our 2024 project ideas:
 - [#601](https://github.com/json-schema-org/community/issues/601): **JSON Schema | JSON Schema Language Server Contributions**
 - [#599](https://github.com/json-schema-org/community/issues/599): **JSON Schema | Define upgrade/downgrade language agnostic declarative transformation rules for all JSON Schema dialects**
 
+## Past GSoC editions project ideas
+
+- 2023 [ideas](https://github.com/postman-open-technologies/gsoc-2023)
+- 2022 [ideas](https://github.com/postman-open-technologies/gsoc-2022)
+- 2021 [ideas](https://github.com/postmanlabs/gsoc/blob/master/2021/Ideas.md)
+- 2020 [ideas](https://github.com/postmanlabs/gsoc/blob/master/2020/IDEAS.md)
+
 ## Contributing
 Please find detailed instructions on how to qualify for becoming a contributor during Google Summer of Code 2024 in our [CONTRIBUTOR_GUIDANCE.md](CONTRIBUTOR_GUIDANCE.md).
 
