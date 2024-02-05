@@ -20,14 +20,14 @@ This is Postman's working area and list of project ideas for [Google Summer of C
 
 ## Project Ideas
 Here is a list of our 2024 project ideas:
-- [#609](https://github.com/json-schema-org/community/issues/609): **JSON Schema | New Bowtie Test Case Widgets**
-- [#607](https://github.com/json-schema-org/community/issues/607): **JSON Schema | `bowtie-trend`: Long-Term Reporting With Bowtie**
-- [#606](https://github.com/json-schema-org/community/issues/606): **JSON Schema | jsonschema.lean -- an implementation of JSON Schema in Lean**
-- [#605](https://github.com/json-schema-org/community/issues/605): **JSON Schema | `bowtie-perf`: a Performance Tester for JSON Schema implementations**
-- [#603](https://github.com/json-schema-org/community/issues/603): **JSON Schema | Setting up the CI/CD Pipeline for the JSON Schema website**
-- [#602](https://github.com/json-schema-org/community/issues/602): **JSON Schema | Build a new version of the JSON Schema tooling page**
-- [#601](https://github.com/json-schema-org/community/issues/601): **JSON Schema | JSON Schema Language Server Contributions**
-- [#599](https://github.com/json-schema-org/community/issues/599): **JSON Schema | Define upgrade/downgrade language agnostic declarative transformation rules for all JSON Schema dialects**
+- [#11](https://github.com/postman-open-technologies/gsoc-2024/issues/11): **JSON Schema | New Bowtie Test Case Widgets**
+- [#12](https://github.com/postman-open-technologies/gsoc-2024/issues/12): **JSON Schema | `bowtie-trend`: Long-Term Reporting With Bowtie**
+- [#13](https://github.com/postman-open-technologies/gsoc-2024/issues/13): **JSON Schema | jsonschema.lean -- an implementation of JSON Schema in Lean**
+- [#14](https://github.com/postman-open-technologies/gsoc-2024/issues/14): **JSON Schema | `bowtie-perf`: a Performance Tester for JSON Schema implementations**
+- [#15](https://github.com/postman-open-technologies/gsoc-2024/issues/15): **JSON Schema | Setting up the CI/CD Pipeline for the JSON Schema website**
+- [#16](https://github.com/postman-open-technologies/gsoc-2024/issues/16): **JSON Schema | Build a new version of the JSON Schema tooling page**
+- [#17](https://github.com/postman-open-technologies/gsoc-2024/issues/17): **JSON Schema | JSON Schema Language Server Contributions**
+- [#18](https://github.com/postman-open-technologies/gsoc-2024/issues/18): **JSON Schema | Define upgrade/downgrade language agnostic declarative transformation rules for all JSON Schema dialects**
 - [#10](https://github.com/postman-open-technologies/gsoc-2024/issues/10): **AsyncAPI | Real-time Collaboration and Editing Enhancement for AsyncAPI Studio**
 - [#9](https://github.com/postman-open-technologies/gsoc-2024/issues/9): **AsyncAPI | Dynamic Open Graph Link Preview for AsyncAPI Studio**
 - [#8](https://github.com/postman-open-technologies/gsoc-2024/issues/8): **AsyncAPI | Website UI Kit Development**
