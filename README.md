@@ -3,8 +3,6 @@
 # Google Summer of Code 2024
 This is Postman's working area and list of project ideas for [Google Summer of Code 2024](https://summerofcode.withgoogle.com/). Please use [issues](#project-ideas) and [our forums](https://community.postman.com/c/open-technology/gsoc/42) to comment on project ideas, ask questions and collaborate. Refer to the guidelines [here](./CONTRIBUTOR_GUIDANCE.md).
 
-This application is an umbrella for various API specifications projects: [AsyncAPI](https://github.com/asyncapi) and [JSON Schema](https://github.com/json-schema-org). Consequently, it operates on two levels: Postman itself, which is responsible for gathering ideas and submitting the program application, and the API specification projects themselves responsible of choosing and mentoring students.
-
 ## Timeline for GSoC 2024?
 [Full timeline](https://developers.google.com/open-source/gsoc/timeline)
 
@@ -40,7 +38,9 @@ Please find detailed instructions on how to qualify for becoming a contributor d
 
 ## Postman's Org Application
 
-API Specifications form an essential foundation to the API ecosystem, securing standardization, governance and overall quality of products building on this ecosystem, as well as APIs that are products themselves. Postman applies to Google Summer of Code 2024 to represent and advocate for the Specifications that are not in a position to bring in sufficient resources for an individual application. [Postman's Open Technologies](https://blog.postman.com/announcing-postman-open-technologies/) feel the strongest urge to raise our voice for the Open Source work that is being done in the API Specifications area, which is, similar to the API industry itself, still undervalued in its generally perceived impact on tech. [Read our blog](https://blog.postman.com/join-postman-at-google-summer-of-code-2024/) to learn more.
+API Specifications form an essential foundation to the API ecosystem, securing standardization, governance and overall quality of products building on this ecosystem, as well as APIs that are products themselves. Postman applies to Google Summer of Code 2024 to represent and advocate for the Specifications that are not in a position to bring in sufficient resources for an individual application. [Postman's Open Technologies](https://blog.postman.com/announcing-postman-open-technologies/) feel the strongest urge to raise our voice for the Open Source work that is being done in the API Specifications area, which is, similar to the API industry itself, still undervalued in its generally perceived impact on tech. [Read our blog](https://blog.postman.com/join-postman-at-google-summer-of-code-2023/) to learn more.
+
+As explained before, this is an umbrella application for various API Specifications projects: [AsyncAPI](https://github.com/asyncapi) and [JSON Schema](https://github.com/json-schema-org). Consequently, it operates on two levels: Postman itself, which is responsible for gathering ideas and submitting the program application, and the API specification projects themselves responsible of choosing and mentoring students.
 
 ## A word on ChatGPT
 
