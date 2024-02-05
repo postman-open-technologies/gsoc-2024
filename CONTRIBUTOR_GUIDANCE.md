@@ -1,6 +1,6 @@
 # :wave: Hey there
 
-We're very happy that you are considering contributing to our projects during Google Summer of Code 2023. Please **introduce yourself** on the available [project ideas](README.md#project-ideas) in the [issues](https://github.com/postman-open-technologies/gsoc-2023/issues) section of this repo.
+We're very happy that you are considering contributing to our projects during Google Summer of Code 2024. Please **introduce yourself** on the available [project ideas](README.md#project-ideas) in the [issues](https://github.com/postman-open-technologies/gsoc-2024/issues) section of this repo.
 
 **This repo ([gsoc-2024](https://github.com/postman-open-technologies/gsoc-2024)) is only for managing ideas and informing potential contributors. There will be no mandatory qualifying task in this repo, nor will any project development happen here. Find the corresponding project repos by going to the [issues section](README.md#project-ideas), select the project you want to learn about or contribute to and follow the link to the repo in the description.**
 
