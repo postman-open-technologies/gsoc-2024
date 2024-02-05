@@ -1,7 +1,7 @@
 ![](https://blog.postman.com/wp-content/uploads/2021/10/Google-Summer-of-Code-Postman-Blog-Projects.jpg)
 
 # Google Summer of Code 2024
-This is Postman's working area and list of project ideas for [Google Summer of Code 2024](https://summerofcode.withgoogle.com/). Please use [issues](https://github.com/postman-open-technologies/gsoc-2023/issues) and [our forums](https://community.postman.com/c/open-technology/gsoc/42) to comment on project ideas, ask questions and collaborate. Refer to the guidelines [here](./CONTRIBUTOR_GUIDANCE.md).
+This is Postman's working area and list of project ideas for [Google Summer of Code 2024](https://summerofcode.withgoogle.com/). Please use [issues](#project-ideas) and [our forums](https://community.postman.com/c/open-technology/gsoc/42) to comment on project ideas, ask questions and collaborate. Refer to the guidelines [here](./CONTRIBUTOR_GUIDANCE.md).
 
 ## Timeline for GSoC 2024?
 [Full timeline](https://developers.google.com/open-source/gsoc/timeline)
