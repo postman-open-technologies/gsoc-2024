@@ -29,7 +29,7 @@ Here is a list of our 2024 project ideas:
 - [#601](https://github.com/json-schema-org/community/issues/601): **JSON Schema | JSON Schema Language Server Contributions**
 - [#599](https://github.com/json-schema-org/community/issues/599): **JSON Schema | Define upgrade/downgrade language agnostic declarative transformation rules for all JSON Schema dialects**
 
-## Past GSoC editions project ideas
+## Past GSoC editions Project Ideas
 
 - 2023 [ideas](https://github.com/postman-open-technologies/gsoc-2023)
 - 2022 [ideas](https://github.com/postman-open-technologies/gsoc-2022)
