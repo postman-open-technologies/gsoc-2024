@@ -30,7 +30,7 @@ Here is a list of our 2024 project ideas:
 - [#599](https://github.com/json-schema-org/community/issues/599): **JSON Schema | Define upgrade/downgrade language agnostic declarative transformation rules for all JSON Schema dialects**
 
 ## Contributing
-Please find detailed instructions on how to qualify for becoming a contributor during Google Summer of Code 2023 in our [CONTRIBUTOR_GUIDANCE.md](CONTRIBUTOR_GUIDANCE.md).
+Please find detailed instructions on how to qualify for becoming a contributor during Google Summer of Code 2024 in our [CONTRIBUTOR_GUIDANCE.md](CONTRIBUTOR_GUIDANCE.md).
 
 ## OSS Projects with contributors in our org
 - **AsyncAPI** — [@acethecreator](https://github.com/acethecreator), [@fmvilas](https://github.com/fmvilas), and [@derberg](https://github.com/derberg)
@@ -38,7 +38,7 @@ Please find detailed instructions on how to qualify for becoming a contributor d
 
 ## Postman's Org Application
 
-API Specifications form an essential foundation to the API ecosystem, securing standardization, governance and overall quality of products building on this ecosystem, as well as APIs that are products themselves. Postman applies to Google Summer of Code 2023 to represent and advocate for the Specifications that are not in a position to bring in sufficient resources for an individual application. [Postman's Open Technologies](https://blog.postman.com/announcing-postman-open-technologies/) feel the strongest urge to raise our voice for the Open Source work that is being done in the API Specifications area, which is, similar to the API industry itself, still undervalued in its generally perceived impact on tech. [Read our blog](https://blog.postman.com/join-postman-at-google-summer-of-code-2023/) to learn more.
+API Specifications form an essential foundation to the API ecosystem, securing standardization, governance and overall quality of products building on this ecosystem, as well as APIs that are products themselves. Postman applies to Google Summer of Code 2024 to represent and advocate for the Specifications that are not in a position to bring in sufficient resources for an individual application. [Postman's Open Technologies](https://blog.postman.com/announcing-postman-open-technologies/) feel the strongest urge to raise our voice for the Open Source work that is being done in the API Specifications area, which is, similar to the API industry itself, still undervalued in its generally perceived impact on tech. [Read our blog](https://blog.postman.com/join-postman-at-google-summer-of-code-2024/) to learn more.
 
 ## A word on ChatGPT
 
