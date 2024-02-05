@@ -3,6 +3,8 @@
 # Google Summer of Code 2024
 This is Postman's working area and list of project ideas for [Google Summer of Code 2024](https://summerofcode.withgoogle.com/). Please use [issues](#project-ideas) and [our forums](https://community.postman.com/c/open-technology/gsoc/42) to comment on project ideas, ask questions and collaborate. Refer to the guidelines [here](./CONTRIBUTOR_GUIDANCE.md).
 
+This application is an umbrella for various API specifications projects: [AsyncAPI](https://github.com/asyncapi) and [JSON Schema](https://github.com/json-schema-org). Consequently, it operates on two levels: Postman itself, which is responsible for gathering ideas and submitting the program application, and the API specification projects themselves responsible of choosing and mentoring students.
+
 ## Timeline for GSoC 2024?
 [Full timeline](https://developers.google.com/open-source/gsoc/timeline)
 
@@ -34,7 +36,7 @@ Please find detailed instructions on how to qualify for becoming a contributor d
 
 ## OSS Projects with contributors in our org
 - **AsyncAPI** — [@acethecreator](https://github.com/acethecreator), [@fmvilas](https://github.com/fmvilas), and [@derberg](https://github.com/derberg)
-- **JSON Schema** — [@Relequestual](https://github.com/Relequestual), [@gregsdennis](https://github.com/gregsdennis), [@jdesrosiers](https://github.com/jdesrosiers), [@Julian](https://github.com/Julian) and [@benjagm](https://github.com/benjagm)
+- **JSON Schema** — [@Relequestual](https://github.com/Relequestual), [@gregsdennis](https://github.com/gregsdennis), [@jdesrosiers](https://github.com/jdesrosiers), [@Julian](https://github.com/Julian), and [@benjagm](https://github.com/benjagm)
 
 ## Postman's Org Application
 
