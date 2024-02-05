@@ -28,6 +28,13 @@ Here is a list of our 2024 project ideas:
 - [#602](https://github.com/json-schema-org/community/issues/602): **JSON Schema | Build a new version of the JSON Schema tooling page**
 - [#601](https://github.com/json-schema-org/community/issues/601): **JSON Schema | JSON Schema Language Server Contributions**
 - [#599](https://github.com/json-schema-org/community/issues/599): **JSON Schema | Define upgrade/downgrade language agnostic declarative transformation rules for all JSON Schema dialects**
+- [#10](https://github.com/postman-open-technologies/gsoc-2024/issues/10): **AsyncAPI | Real-time Collaboration and Editing Enhancement for AsyncAPI Studio**
+- [#9](https://github.com/postman-open-technologies/gsoc-2024/issues/9): **AsyncAPI | Dynamic Open Graph Link Preview for AsyncAPI Studio**
+- [#8](https://github.com/postman-open-technologies/gsoc-2024/issues/8): **AsyncAPI | Website UI Kit Development**
+- [#7](https://github.com/postman-open-technologies/gsoc-2024/issues/7): **AsyncAPI | Enhanced Preview Option with Markdown and MermaidJS Diagrams**
+- [#6](https://github.com/postman-open-technologies/gsoc-2024/issues/6): **AsyncAPI | Library for easier integration testing of code generators**
+- [#5](https://github.com/postman-open-technologies/gsoc-2024/issues/5): **AsyncAPI | Enhancing Script Stability for AsyncAPI Website**
+- [#4](https://github.com/postman-open-technologies/gsoc-2024/issues/4): **AsyncAPI | Add "Autofix" feature for common linting errors (w/ spectral)**
 
 ## Past GSoC editions Project Ideas
 
