@@ -63,6 +63,6 @@ When writing your proposal **we encourage you to not use ChatGPT** or other AI t
 
 ## Contact
 
-If you have any questions or queries, please reach out to each community depending on the project ideas you are interested on: [AsyncAPI](https://github.com/asyncapi) and/or [JSON Schema](https://github.com/json-schema-org).
+If you have any questions or queries, please reach out to each Community depending on the project ideas you are interested in: [AsyncAPI Community](https://github.com/asyncapi) and/or [JSON Schema Community](https://github.com/json-schema-org).
 
 [![Twitter](https://img.shields.io/badge/Twitter-%40getpostman-orange?logo=twitter&logoColor=white)](https://twitter.com/getpostman) [![YouTube](https://img.shields.io/badge/YouTube-%40postman-orange?logo=youtube)](https://www.youtube.com/c/postman)
