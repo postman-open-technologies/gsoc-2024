@@ -63,6 +63,6 @@ When writing your proposal **we encourage you to not use ChatGPT** or other AI t
 
 ## Contact
 
-If you have any questions or queries, please [create an issue](https://github.com/postman-open-technologies/gsoc-2024/issues/new) on this repo (with a prefix GSoC 2024) or start a topic on [our community forums in the GSoC category](https://community.postman.com/c/open-technology/gsoc/42).
+If you have any questions or queries, please reach out to each community depending on the project ideas you are interested on: [AsyncAPI](https://github.com/asyncapi) and/or [JSON Schema](https://github.com/json-schema-org).
 
 [![Twitter](https://img.shields.io/badge/Twitter-%40getpostman-orange?logo=twitter&logoColor=white)](https://twitter.com/getpostman) [![YouTube](https://img.shields.io/badge/YouTube-%40postman-orange?logo=youtube)](https://www.youtube.com/c/postman)
