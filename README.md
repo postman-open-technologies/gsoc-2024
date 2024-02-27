@@ -29,6 +29,7 @@ Here is a list of our 2024 project ideas:
 - [#17](https://github.com/postman-open-technologies/gsoc-2024/issues/17): **JSON Schema | JSON Schema Language Server Contributions**
 - [#18](https://github.com/postman-open-technologies/gsoc-2024/issues/18): **JSON Schema | Define upgrade/downgrade language agnostic declarative transformation rules for all JSON Schema dialects**
 - [#21](https://github.com/postman-open-technologies/gsoc-2024/issues/21): **JSON Schema | Source Generation Analyzer Powered by Corvus.JsonSchema (.Net)**
+- [#645](https://github.com/json-schema-org/community/issues/645): **A tour of JSON Schema**
 - [#10](https://github.com/postman-open-technologies/gsoc-2024/issues/10): **AsyncAPI | Real-time Collaboration and Editing Enhancement for AsyncAPI Studio**
 - [#9](https://github.com/postman-open-technologies/gsoc-2024/issues/9): **AsyncAPI | Dynamic Open Graph Link Preview for AsyncAPI Studio**
 - [#8](https://github.com/postman-open-technologies/gsoc-2024/issues/8): **AsyncAPI | Website UI Kit Development**
