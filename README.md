@@ -30,11 +30,11 @@ Here is a list of our 2024 project ideas:
 - [#18](https://github.com/postman-open-technologies/gsoc-2024/issues/18): **JSON Schema | Define upgrade/downgrade language agnostic declarative transformation rules for all JSON Schema dialects**
 - [#21](https://github.com/postman-open-technologies/gsoc-2024/issues/21): **JSON Schema | Source Generation Analyzer Powered by Corvus.JsonSchema (.Net)**
 - [#645](https://github.com/json-schema-org/community/issues/645): **JSON Schema | A tour of JSON Schema**
-- [#10](https://github.com/postman-open-technologies/gsoc-2024/issues/10): **AsyncAPI | Real-time Collaboration and Editing Enhancement for AsyncAPI Studio**
+- [#10](https://github.com/postman-open-technologies/gsoc-2024/issues/24): **AsyncAPI | Conference Website Maintainance**
 - [#9](https://github.com/postman-open-technologies/gsoc-2024/issues/9): **AsyncAPI | Dynamic Open Graph Link Preview for AsyncAPI Studio**
 - [#8](https://github.com/postman-open-technologies/gsoc-2024/issues/8): **AsyncAPI | Website UI Kit Development**
 - [#7](https://github.com/postman-open-technologies/gsoc-2024/issues/7): **AsyncAPI | Enhanced Preview Option with Markdown and MermaidJS Diagrams**
-- [#6](https://github.com/postman-open-technologies/gsoc-2024/issues/6): **AsyncAPI | Library for easier integration testing of code generators**
+- [#6](https://github.com/postman-open-technologies/gsoc-2024/issues/25): **AsyncAPI | AsyncAPI Generator Maintainership**
 - [#5](https://github.com/postman-open-technologies/gsoc-2024/issues/5): **AsyncAPI | Enhancing Script Stability for AsyncAPI Website**
 - [#4](https://github.com/postman-open-technologies/gsoc-2024/issues/4): **AsyncAPI | Add "Autofix" feature for common linting errors (w/ spectral)**
 
